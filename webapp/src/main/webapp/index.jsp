@@ -16,6 +16,9 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
+     <label for="address"><b>Address</b></label>
+    <input type="text" placeholder="address" name="address" id="address" required>
+    <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
@@ -24,7 +27,5 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-  <label for="address"><b>Email</b></label>
-    <input type="text" placeholder="address" name="address" id="address" required>
-    <br>
+  
 </form>
