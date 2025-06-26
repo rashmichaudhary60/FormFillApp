@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Saidemy DevOps Student Registration Form!!</h1>
+    <h1>Welcome!! Saidemy DevOps Student Registration Form!!!</h1>
     <p>Please fill in this form!</p>
     <hr>
     <br>
@@ -24,4 +24,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+  <label for="address"><b>Email</b></label>
+    <input type="text" placeholder="address" name="address" id="address" required>
+    <br>
 </form>
