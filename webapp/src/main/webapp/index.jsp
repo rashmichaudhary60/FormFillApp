@@ -13,6 +13,9 @@
     <label for="psw-repeat"><b>Repeat Password</b></label><br>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required><br><br>
 
+    <label for="address"><b>address</b></label><br>
+    <input type="email" placeholder="Enter Email" name="email" id="email" required><br><br>
+
     <label for="address"><b>Address</b></label><br>
     <input type="text" placeholder="Enter Address" name="address" id="address" required><br><br>
 
